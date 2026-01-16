@@ -21,11 +21,15 @@ This is a repository for a Git README profile. It contains markdown documentatio
 - Include examples where appropriate
 - Use bullet points and numbered lists for clarity
 
+## Language Policy
+- This repository supports bilingual content (Spanish and English)
+- Preserve the language of existing content when making updates
+- New documentation can be in either Spanish or English based on context
+
 ## Boundaries and Constraints
 - Do not commit sensitive information (API keys, passwords, etc.)
 - Keep the repository focused on profile/README content
 - Maintain consistency with existing file structure
-- Preserve Spanish language content where present
 
 ## Best Practices
 - Review all changes before committing
